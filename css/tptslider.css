@@ -1,0 +1,58 @@
+.sliderWrapper {
+    background: #40c0cb;
+    padding: 10px 0;
+    text-align: center;
+}
+
+    .sliderWrapper h3 {
+        font-family: 'Coming Soon';
+        font-size: 1.7em;
+        color: #fff;
+        text-shadow: 2px 2px rgba(255,118,118,.5);
+        line-height: 25px;
+    }
+
+.bx-wrapper .bx-viewport {
+    border: solid #40c0cb 5px;
+    left: -5px;
+    background: #40c0cb;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+
+.freeLessons {
+    clear: both;
+}
+
+
+.lessonInfo{
+    padding: 5px;
+    text-align:center ;
+}
+
+    .lessonInfo strong {
+        text-align: center;
+    }
+
+
+
+.freeLessonWrapper img {
+    margin: 0 auto;
+    border: 2px solid #ff7676;
+}
+
+.imageWrapper {
+    background-color: #ff7676;
+    border: 1px solid #E0DCD4;
+    height: auto;
+    padding: 9px 8px 10px 8px;
+}
+
+
+
+
+.product_big_image {
+    display: none;
+}
+
